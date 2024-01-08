@@ -1,3 +1,7 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f7fa;
+}
 .animals {
   border-color: #11ffee00;
   border-width: 5px;
@@ -8,7 +12,6 @@
   width: 150px;
 }
 .products-title {
-  font-family: Lobster, monospace;
   font-style: normal;
   font-weight: bold;
   font-size: 50px;
