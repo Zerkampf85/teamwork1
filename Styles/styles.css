@@ -8,5 +8,14 @@
   width: 150px;
 }
 .products-title {
-  font-family: Baloo+2, cursive;
+  font-family: Baloo 2, Baloo 2 - 700;
+  color: #3c3731;
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em
+}
+.products__carousel-animals-item {
+  display: block;
+    margin-left: auto;
+    margin-right: auto }
 }
